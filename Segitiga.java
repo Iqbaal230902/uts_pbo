@@ -1,4 +1,4 @@
-
+package test;
 
 public class Segitiga extends BangunDatar{
    int alas;
