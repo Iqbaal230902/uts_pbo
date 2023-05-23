@@ -1,7 +1,7 @@
-package test;
+package uts_pbo;
 
 public class Persegi extends BangunDatar{
-    int sisi;
+    private int sisi;
     
     public Persegi(int sisi) {
         this.sisi = sisi;
