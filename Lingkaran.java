@@ -1,7 +1,7 @@
-package test;
+package uts_pbo;
 
 public class Lingkaran extends BangunDatar {
-    int r;
+    private int r;
 
     public Lingkaran(int r) {
         this.r = r;
