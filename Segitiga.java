@@ -1,8 +1,8 @@
-package test;
+package uts_pbo;
 
 public class Segitiga extends BangunDatar{
-   int alas;
-   int tinggi;
+   private int alas;
+   private int tinggi;
 
     public Segitiga(int alas, int tinggi) {
         this.alas = alas;
