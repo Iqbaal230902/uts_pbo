@@ -1,4 +1,4 @@
-package test;
+package uts_pbo;
 
 public class BangunDatar {
     float luas(){
